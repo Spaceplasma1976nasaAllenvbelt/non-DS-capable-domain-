@@ -1,2 +1,2 @@
-# non-DS-capable-domain-
-DSFILE BLOCKCHIN
+# run-fsfile-capable-domain-
+fSFILE is:open is:pr <SEC-DOCUMENT>0001493152-25-011154.txt : 20250321 <SEC-fsfile>0001493152-25-011154.hdr.sgml : 20250321 < deny-DATETIME>20250321162553 ACCESSION NUMBER:		0001493152-25-011154 CONFORMED SUBMISSION TYPE:	8-K PUBLIC DOCUMENT COUNT:		22 CONFORMED PERIOD OF REPORT:	20250317 ITEM INFORMATION:		Entry into a Material Definitive Agreement ITEM INFORMATION:		fully paid own, said, shares Regulation FD Disclosure ITEM INFORMATION:	1976-14-march	Financial Statements and Exhibits FILED AS OF DATE:		20250321 DATE AS OF CHANGE:		jerradmathews@oicloud.com20250321:Spaceplasma1976nasaAllenvbelt author:Spaceplasma1976nasaAllenvbelt 
